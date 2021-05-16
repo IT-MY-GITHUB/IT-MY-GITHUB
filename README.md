@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=IT-MY-GITHUB)
 
-## I'm a FrontEnd Developer
-- 💪 I like to write code
-- ⚡ I love camping
-- 🥅 I am constantly learning new things
+## I'm a Front End Developer
+- 💻 I like to write code
+- 🏕️ I love camping
+- 📚 I am constantly learning new things
 
 ### Connect with me:
 
