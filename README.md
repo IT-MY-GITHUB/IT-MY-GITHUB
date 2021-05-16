@@ -13,6 +13,9 @@
 [<img align="left" alt="IT-MY-GITHUB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IT-MY-GITHUB | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="IT-MY-GITHUB | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+<br />
+
+phone: +375 29 859-44-43
 
 <br />
 
@@ -33,9 +36,8 @@
 [instagram]: https://www.instagram.com/web.dev.noob/
 [vk]: https://vk.com/stivem
 [skype]: live:.cid.e80fa5a733d622ae
-[phone]: +375 29 859-44-43
 <br />
-[email]: stivem666@gmail.com
+
 
 
 <!---
