@@ -39,7 +39,7 @@ phone: +375 29 859-44-43
 [skype]: https://join.skype.com/invite/L9RtNy0kfKop
 <br />
 
-
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-MY-GITHUB&langs_count=8&layout=compact" />
 
 <!---
 IT-MY-GITHUB/IT-MY-GITHUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
