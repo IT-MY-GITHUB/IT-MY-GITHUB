@@ -35,7 +35,7 @@ phone: +375 29 859-44-43
 [linkedin]: https://www.linkedin.com/in/oleg-kolpakov-61a0001a2/
 [instagram]: https://www.instagram.com/web.dev.noob/
 [vk]: https://vk.com/stivem
-[skype]: live:.cid.e80fa5a733d622ae
+[skype]: https://join.skype.com/invite/L9RtNy0kfKop
 <br />
 
 
