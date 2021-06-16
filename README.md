@@ -12,7 +12,6 @@
 [<img align="left" alt="IT-MY-GITHUB | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/skype.svg" />][skype]
 [<img align="left" alt="IT-MY-GITHUB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IT-MY-GITHUB | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="IT-MY-GITHUB | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 <br />
 
 phone: +375 29 859-44-43
@@ -35,7 +34,6 @@ phone: +375 29 859-44-43
 
 [linkedin]: https://www.linkedin.com/in/oleg-kolpakov-61a0001a2/
 [instagram]: https://www.instagram.com/web.dev.noob/
-[vk]: https://vk.com/stivem
 [skype]: https://join.skype.com/invite/L9RtNy0kfKop
 <br />
 
