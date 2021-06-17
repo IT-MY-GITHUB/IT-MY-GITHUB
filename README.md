@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Oleg
-
 ![](https://komarev.com/ghpvc/?username=IT-MY-GITHUB)
+
+### Hi there 👋, I'm Oleg
 
 ## I'm a Front End Developer
 - 💻 I like to write code
