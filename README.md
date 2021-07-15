@@ -33,7 +33,7 @@ phone: +375 29 859-44-43
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/oleg-kolpakov-61a0001a2/
+[linkedin]: https://www.linkedin.com/in/stivem/
 [instagram]: https://www.instagram.com/web.dev.noob/
 [skype]: https://join.skype.com/invite/L9RtNy0kfKop
 [telegram]: https://t.me/I_StiveM
