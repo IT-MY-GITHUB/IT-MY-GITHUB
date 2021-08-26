@@ -36,7 +36,7 @@ phone: +375 29 859-44-43
 [linkedin]: https://www.linkedin.com/in/stivem/
 [instagram]: https://www.instagram.com/web.dev.noob/
 [skype]: https://join.skype.com/invite/L9RtNy0kfKop
-[telegram]: https://t.me/I_StiveM
+[telegram]: https://t.me/Oleg_Kolp
 <br />
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-MY-GITHUB&langs_count=8&layout=compact" />
