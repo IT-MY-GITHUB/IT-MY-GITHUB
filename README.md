@@ -14,7 +14,8 @@
 [<img align="left" alt="IT-MY-GITHUB | Skype" src="https://img.shields.io/static/v1?style=for-the-badge&message=Skype&color=00AFF0&logo=Skype&logoColor=FFFFFF&label=" />][skype]
 [<img align="left" alt="IT-MY-GITHUB | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="IT-MY-GITHUB | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="IT-MY-GITHUB | Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />][telegram] &nbsp;
+[<img align="left" alt="IT-MY-GITHUB | Telegram" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" />][telegram]&nbsp;
+
 <br />
 
 ☎️ +375 29 859-44-43
