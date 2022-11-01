@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Oleg
 
 ## I'm a Front End Developer
-- 💻 2+ Years Experience in Front-end Development
+- 💻 2+ Years Experience in Development
 - 👨‍💻 I like to write code
 - 📚 I am constantly learning new things
 - 🏕️ I love camping 
