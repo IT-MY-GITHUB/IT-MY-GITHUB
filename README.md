@@ -39,6 +39,8 @@
 <img alt="mongodb" src="https://img.shields.io/badge/mongodb-26A944.svg?&style=for-the-badge&logo=mongodb&logoColor=fff" />&nbsp;
 <img alt="sqlite" src="https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=" />&nbsp;
 <img alt="sequelize" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sequelize&color=222222&logo=Sequelize&logoColor=52B0E7&label=" />&nbsp;
+<img alt="sequelize" src="https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=green&logo=Mongoose&logoColor=green&label=" />&nbsp;
+
 
 ### 🛠 Tools:
 
