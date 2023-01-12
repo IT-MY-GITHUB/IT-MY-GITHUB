@@ -1,3 +1,5 @@
+<img src="https://github.com/IT-MY-GITHUB/IT-MY-GITHUB/blob/main/assets/preview.jpeg">
+
 ![](https://komarev.com/ghpvc/?username=IT-MY-GITHUB)
 
 ### Hi there 👋, I'm Oleg
