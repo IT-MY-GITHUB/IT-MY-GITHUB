@@ -58,16 +58,30 @@
 <img alt="vercel" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=" />&nbsp;
 <img alt="heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
 
-<br />
-<br />
+
+---
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IT-MY-GITHUB&theme=algolia" alt="IT-MY-GITHUB Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IT-MY-GITHUB&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+---
 
 [linkedin]: https://www.linkedin.com/in/stivem/
 [instagram]: https://www.instagram.com/web.dev.noob/
 [skype]: https://join.skype.com/invite/L9RtNy0kfKop
 [telegram]: https://t.me/Oleg_Kolp
-<br />
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-MY-GITHUB&langs_count=8&layout=compact" />
+---
 
 <!---
 IT-MY-GITHUB/IT-MY-GITHUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
