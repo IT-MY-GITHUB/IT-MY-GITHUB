@@ -85,7 +85,7 @@
 [instagram]: https://www.instagram.com/web.dev.noob/
 [skype]: https://join.skype.com/invite/L9RtNy0kfKop
 [telegram]: https://t.me/Oleg_Kolp
-[viber]: https://viber:add?number=375298594443
+[viber]: <a href="viber:add?number=375298594443"></a>
 
 <!---
 IT-MY-GITHUB/IT-MY-GITHUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
