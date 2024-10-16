@@ -83,7 +83,7 @@
 [linkedin]: https://www.linkedin.com/in/stivem/
 [instagram]: https://www.instagram.com/web.dev.noob/
 [skype]: https://join.skype.com/invite/L9RtNy0kfKop
-[telegram]: https://t.me/Oleg_Kolp
+[telegram]: https://t.me/SloveDev
 
 <!---
 IT-MY-GITHUB/IT-MY-GITHUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
