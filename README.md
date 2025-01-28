@@ -1,10 +1,18 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT-MY-GITHUB&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20VueJS-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
+</p>
+
+<div align="center" style="padding: 20px 0;">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=6BD9FA1A&background=1F2229&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+my+GitHub+profile!;I+really+like+Web+development;2%2B+years+of+experience+in+development)](https://git.io/typing-svg)
+
+</div>
+
 <img style="width:100%" src="https://github.com/IT-MY-GITHUB/IT-MY-GITHUB/blob/main/assets/preview.jpeg">
 
-![](https://komarev.com/ghpvc/?username=IT-MY-GITHUB)
-
-### Hi there 👋, I'm Oleg
-
-## I'm a Front End Developer
+## 👦 About Me
 - 💻 2+ Years Experience in Development
 - 👨‍💻 I like to write code
 - 📚 I am constantly learning new things
@@ -65,9 +73,17 @@
 
 ---
 
-### ⚙️ GitHub Analytics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT-MY-GITHUB&theme=highcontrast)](https://git.io/streak-stats)
-<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IT-MY-GITHUB&theme=algolia&layout=compact" />
+### 📈 GitHub Analytics
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=IT-MY-GITHUB&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-MY-GITHUB&layout=compact&show_icons=true&theme=react" alt="IT-MY-GITHUB github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-MY-GITHUB&layout=compact&theme=react" alt="IT-MY-GITHUB github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=IT-MY-GITHUB&theme=merko" alt="IT-MY-GITHUB github readme activity graph" width="60%" />
+</div>
 
 ---
 
