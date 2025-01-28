@@ -70,7 +70,7 @@
 <table>
   <tr>
     <td>
-      ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT-MY-GITHUB&theme=dark&background=000000)](https://git.io/streak-stats)
+      [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT-MY-GITHUB)](https://git.io/streak-stats)
 <!--       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=IT-MY-GITHUB&theme=algolia" alt="IT-MY-GITHUB Github stats" /> -->
     </td>
     <td>
