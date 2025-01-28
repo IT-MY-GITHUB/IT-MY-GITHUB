@@ -67,12 +67,9 @@
 
 ### ⚙️ GitHub Analytics
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT-MY-GITHUB&theme=highcontrast)](https://git.io/streak-stats)
 <table>
   <tr>
-    <td>
-<!--       [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT-MY-GITHUB)](https://git.io/streak-stats) -->
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=IT-MY-GITHUB&theme=algolia" alt="IT-MY-GITHUB Github stats" />
-    </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IT-MY-GITHUB&theme=algolia&layout=compact" />
     </td>
