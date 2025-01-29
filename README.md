@@ -111,13 +111,13 @@
 <br />
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=IT-MY-GITHUB&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-MY-GITHUB&layout=compact&show_icons=true&theme=react" alt="IT-MY-GITHUB github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=IT-MY-GITHUB&theme=radical" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IT-MY-GITHUB&layout=compact&show_icons=true&theme=radical" alt="IT-MY-GITHUB github-readme-stats" width="48%" />
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-MY-GITHUB&layout=compact&theme=react" alt="IT-MY-GITHUB github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=IT-MY-GITHUB&theme=merko" alt="IT-MY-GITHUB github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-MY-GITHUB&layout=compact&theme=radical" alt="IT-MY-GITHUB github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=IT-MY-GITHUB&theme=radical" alt="IT-MY-GITHUB github readme activity graph" width="60%" />
 </div>
 
 ---
