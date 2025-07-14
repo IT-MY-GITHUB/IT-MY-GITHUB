@@ -22,7 +22,7 @@
 
 <br />
 
-- 💻 2+ Years Experience in Development
+- 💻 4+ Years Experience in Development
 - 👨‍💻 I like to write code
 - 📚 I am constantly learning new things
 - 🏕️ I love camping 
